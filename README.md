@@ -220,8 +220,11 @@ int main()
 ```
  
 ## Tabulations and graph 
+```
 Calculation of sensitivity 
-% of sensitivity is   S=  (T2-T1)/(A2-A1)*100
+% of sensitivity is   
+S=  (T2-T1)/(A2-A1)*100
+```
 ![image](https://user-images.githubusercontent.com/94219798/200113334-0f76eaf8-3020-4f91-bc38-25bcb15550b4.png)
 ![image](https://user-images.githubusercontent.com/94219798/200113338-295dddd8-0b7a-474b-83bd-aa030300bb2d.png)
 
